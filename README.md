@@ -1,1 +1,2 @@
-# This is a chatbot made using gemini ai
+# This is a Chatbot made using Gemini AI 
+
